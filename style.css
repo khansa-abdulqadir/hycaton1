@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.main{
+    height: 100%;
+}
+.box1{
+    display: flex;}
+    
+    
+    
+    
+
+.box2{
+    background-color: rgb(213, 203, 216);
+    width: 461px;
+height: 122px;
+top: 217px;
+left: 859px;
+gap: 0px;
+opacity: 0px;
+
+}
+.header{
+    font-family: Roboto;
+font-size: 52px;
+font-weight: 300;
+line-height: 60.94px;
+text-align: left;
+
+}
+h1{
+    font-family: Roboto;
+font-size: 52px;
+font-weight: 500;
+line-height: 60.94px;
+text-align: left;
+
+}
+
+
